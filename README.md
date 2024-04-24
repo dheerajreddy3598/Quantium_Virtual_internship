@@ -27,8 +27,8 @@ This repository contains my submission for the Forage Quantium Data Analytics Vi
 
 ### Files
 
-- `QVI_task1.ipynb`: Jupyter Notebook for Task 1.
-- `QVI_task2.ipynb`: Jupyter Notebook for Task 2.
+- `task1.ipynb`: Jupyter Notebook for Task 1.
+- `task2.ipynb`: Jupyter Notebook for Task 2.
 
 ### Dependencies
 
