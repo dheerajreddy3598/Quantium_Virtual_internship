@@ -1,6 +1,5 @@
 # Quantium_Virtual_internship
 
-Sure, here's a rephrased version suitable for a GitHub README.md file:
 
 ## Forage Quantium Data Analytics Virtual Experience Program
 
